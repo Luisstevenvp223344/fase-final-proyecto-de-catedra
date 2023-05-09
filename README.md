@@ -34,7 +34,7 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 b
 
 * [Manual de usuario en la nube  https://github.com/Luisstevenvp223344/fase-final-proyecto-de-catedra/blob/025765cdae15f2154d65fa73536a5af06844105f/manual%20de%20usuario.pdf
-* [Manual Técnico https://github.com/Luisstevenvp223344/defensa-fase2/blob/main/manual%20tecnico.pdf
+* [Manual Técnico https://github.com/Luisstevenvp223344/fase-final-proyecto-de-catedra/blob/5c35fad66abe467b72b7b51921281b916029caad/manual%20tecnico.pdf
 * [Enlace a Mockups] https://github.com/Luisstevenvp223344/defensa-fase2/tree/main/mockups
 
 
