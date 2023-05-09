@@ -33,7 +33,7 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 ## Enlaces de interés 👀
 b
 
-* [Manual de usuario en la nube] https://github.com/Luisstevenvp223344/defensa-fase2/blob/main/manual%20de%20usuario.pdf
+* [Manual de usuario en la nube manual de usuario.pdf
 * [Manual Técnico https://github.com/Luisstevenvp223344/defensa-fase2/blob/main/manual%20tecnico.pdf
 * [Enlace a Mockups] https://github.com/Luisstevenvp223344/defensa-fase2/tree/main/mockups
 
